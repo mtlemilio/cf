@@ -1,0 +1,37 @@
+packages/cli/AGENTS.md
+  s_526dd36c79b209::t_a0db8b0d664ead 18,40-54,82
+packages/cli/src/__tests__/commands/planetscale-signature-auth.test.ts
+  s_526dd36c79b209::t_04344f3773b1d8 1-172
+packages/cli/src/__tests__/lib/oauth-scopes.test.ts
+  s_83567ec243b4b5::t_8ea5f8fb185115 1-199
+packages/cli/src/commands/_generated/_meta/hand-written-commands.json
+  s_526dd36c79b209::t_2458cf2668942b 953-990,1713
+packages/cli/src/commands/_generated/hyperdrive/index.ts
+  s_526dd36c79b209::t_9ac3711294302b 1
+packages/cli/src/lib/oauth-scopes.ts
+  s_83567ec243b4b5::t_bf312b07f8dfb4 1-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4a977bf5363a96c22a2a8b068d5e96bd22efecbd",
+  "prompts": {},
+  "sessions": {
+    "s_526dd36c79b209": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f02d44a9cfferTg7pzlu9tCym3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "emilio <emilio@cloudflare.com>"
+    },
+    "s_83567ec243b4b5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee2d0a6caffeZw8Ye6GuUhWLzS",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "emilio <emilio@cloudflare.com>"
+    }
+  }
+}
