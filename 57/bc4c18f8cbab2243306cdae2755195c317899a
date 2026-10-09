@@ -1,0 +1,47 @@
+packages/cli/src/__tests__/commands/planetscale-signature-auth.test.ts
+  s_1fdcf60be4a228::t_8be956f21db9d8 29,61,68-77,96
+packages/cli/src/__tests__/commands/planetscale-signature-oauth.test.ts
+  s_1fdcf60be4a228::t_ac59dc8265f134 1-8,33-34,36-39,43-45,119-133
+packages/cli/src/commands/_generated/_meta/hand-written-commands.json
+  s_526dd36c79b209::t_0f2de74ee942ea 1179-1181,1184-1185,1198,1204-1205,2038-2039
+packages/cli/src/commands/_generated/hyperdrive/integration/planetscale/index.ts
+  s_526dd36c79b209::t_025329848d5c9d 7
+packages/cli/src/commands/hyperdrive/integration/planetscale/signature/index.ts
+  s_1fdcf60be4a228::t_fadda4de7a1aee 1-5,49-51
+packages/cli/src/commands/hyperdrive/integration/planetscale/signature/meta.json
+  s_6b6b46cf93ef0b::t_c59885cf3b8100 4
+packages/cli/src/commands/hyperdrive/integration/planetscale/signature/oauth.ts
+  s_1fdcf60be4a228::t_8bde97ea485189 6-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "57bc4c18f8cbab2243306cdae2755195c317899a",
+  "prompts": {},
+  "sessions": {
+    "s_1fdcf60be4a228": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_edee5ff57ffeh0US59684SDMn3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "emilio <emilio@cloudflare.com>"
+    },
+    "s_526dd36c79b209": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f02d44a9cfferTg7pzlu9tCym3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "emilio <emilio@cloudflare.com>"
+    },
+    "s_6b6b46cf93ef0b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_33bc14ce5ffeY9MJfBDvvL4nuJ",
+        "model": "claude-sonnet-4-5"
+      },
+      "human_author": "emilio <emilio@cloudflare.com>"
+    }
+  }
+}
