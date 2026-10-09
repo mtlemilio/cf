@@ -1,0 +1,31 @@
+packages/cli/AGENTS.md
+  s_526dd36c79b209::t_a0db8b0d664ead 40-54,84
+packages/cli/src/__tests__/commands/planetscale-signature-auth.test.ts
+  s_526dd36c79b209::t_04344f3773b1d8 1,6,8-11,13-14,21-26,28-29,31-32,34-35,39-40,42-44,47-59,63-64,69-70,82,85-87,89-93,109-110
+packages/cli/src/commands/_generated/_meta/hand-written-commands.json
+  s_526dd36c79b209::t_2458cf2668942b 1178-1215,2045
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8c26cad31a40a90713ee9e1a6a825f1d889d1f3d",
+  "prompts": {},
+  "sessions": {
+    "s_526dd36c79b209": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f02d44a9cfferTg7pzlu9tCym3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "emilio <emilio@cloudflare.com>"
+    },
+    "s_83567ec243b4b5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ee2d0a6caffeZw8Ye6GuUhWLzS",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "emilio <emilio@cloudflare.com>"
+    }
+  }
+}
